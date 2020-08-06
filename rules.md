@@ -1,8 +1,6 @@
 # Rules of Game
 
-<small>
 *Recommendations are marked with an asterisk (\*) and/or explicitly stated as such. They can be ignored, depending on players' preferences.*
-</small>
 
 ## Basic Play
 
@@ -22,9 +20,9 @@ This is illegal because "ascension" is derived from the word "ascend."
 
 ## Drawing
 
-The drawing should resemble the word selected. Simply writing the word out is not a valid drawing.
+The drawing should resemble the word selected. Simply writing out the word is not a valid drawing.
 
-The drawing must be done at least partially by hand — computer-rendered graphics are not allowed, but drawing aids (e.g. shape tools) are okay.
+The drawing must be done at least partially by hand — fully computer-rendered graphics are not allowed, but drawing aids (e.g. shape tools) are okay.
 
 ## Permitted words
 
@@ -32,7 +30,7 @@ All English words are allowed, with the following restrictions:
 
 - No words ending with 'y';
 - No abbreviations or acronyms;
-- No proper nouns;
+- No proper nouns
 
 It is recommended to use high school level vocabulary so that all players can understand the words played.
 
