@@ -55,6 +55,6 @@ Rather than match letters, players match [phonemes](https://en.wikipedia.org/wik
 [IPA](https://en.wikipedia.org/wiki/Help:IPA/English):
 > tɛləɡɹæf --> fæktəɹi --> iːst
 
-There may be disputes about acceptable pronounciations: see [Verification](#verification). Players should decide before the start of a match whether to accept all dialectal variations or to restrict pronunciations to one or more dialects.
+There may be disputes about acceptable pronounciations: see [Verification](#verification-) for more details. Players should decide before the start of a match whether to accept all dialectal variations or to restrict pronunciations to one or more dialects.
 
 This variant can be considered more faithful to the Japanese game since kana represent phonemes and phoneme groups directly.
