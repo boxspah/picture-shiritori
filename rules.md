@@ -20,15 +20,17 @@ This is illegal because "ascension" is a derivative of "ascend," which was alrea
 
 ## Drawing
 
-The drawing should resemble the word selected. Simply writing out the word is not a valid drawing.
+The drawing must resemble the word selected. Simply writing out the word is not a valid drawing. If the drawing is intended as a joke or is not literally representative of the word, other players must agree that the drawing is acceptable. For example, drawing a pile of poop for "physics" is only valid if other players agree that physics is poop.
 
 The drawing must be done at least partially by hand — fully computer-rendered graphics are not allowed, but drawing aids (e.g. shape tools) are okay. Hardware aids, such as a drawing tablet, are allowed*.
+
+The drawing may only be started after the preceding player has ended their turn. Preparing drawings or assets in advance is not allowed. Selecting a colour palette ahead of time is allowed.
 
 ## Permitted words
 
 All English words are allowed, with the following restrictions:
 
-- No words ending with 'y';
+- No words ending with 'x', 'y', or 'z';
 - No abbreviations or acronyms;
 - No proper nouns
 
