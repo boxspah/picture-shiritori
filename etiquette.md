@@ -2,7 +2,7 @@
 
 ## Violating a rule
 
-If a rule is violated, the game must be stopped immediately. The offending player may be forced to forfeit the game, if the offense is deemed severe.
+If a rule is violated, the game must be stopped immediately. The offending player may be forced to forfeit the game, if the offense is deemed severe. The game may continue after the offending player is removed from the match or is given a warning.
 
 ## Disputing
 
