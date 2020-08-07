@@ -38,7 +38,7 @@ It is recommended to use high school level vocabulary so that all players can un
 
 ### Verification *
 
-[Wiktionary](https://en.wiktionary.org) is the recommended source to check spelling. If unavailable, [Merriam-Webster](https://www.merriam-webster.com) is a good alternative.
+[Wiktionary](https://en.wiktionary.org) is the recommended source to check spelling or pronunciation. If unavailable, [Merriam-Webster](https://www.merriam-webster.com) is a good alternative.
 
 ## Timers *
 
@@ -52,7 +52,9 @@ Rather than match letters, players match [phonemes](https://en.wikipedia.org/wik
 
 > telegraph --> factory --> east
 
-IPA:
+[IPA](https://en.wikipedia.org/wiki/Help:IPA/English):
 > tɛləɡɹæf --> fæktəɹi --> iːst
 
-This variant can be considered more faithful to the Japanese game since kana represent phonemes and not letters (which don't quite exist in Japanese).
+There may be disputes about acceptable pronounciations: see [Verification](#verification). Players should decide before the start of a match whether to accept all dialectal variations or to restrict pronunciations to one or more dialects.
+
+This variant can be considered more faithful to the Japanese game since kana represent phonemes and phoneme groups directly.
