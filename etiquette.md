@@ -13,3 +13,7 @@ Upon dispute, the game must be stopped immediately. The game must not proceed un
 ## Respectful behaviour
 
 Although drawing is a large part of picture shiritori, players should be mindful that drawing skill can vary wildly from person to person. Players are to refrain from mocking or insulting other players' drawings. Trash-talking, taunting, and other demeaning behaviours are strongly discouraged. Players should maintain an atmosphere of respectful competition during a match.
+
+## Time warnings
+
+If playing with a timer, the timekeeper should inform the player during their turn if the player's turn time is about to run out. Warnings should be given at the halfway mark and at a time after the halfway mark. Ideally, the final warning is given with sufficient time for the player to submit their current drawing and word.
