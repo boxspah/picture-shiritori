@@ -9,7 +9,7 @@ This rulebook is based on the rules of the original Japanese game, but has been 
 ## Table of Contents
 
  1. [Rules of Game](rules.md)
- 2. [Judging Criteria](judging.md)
+ 2. [Scoring System](scoring.md)
  3. [Players' Etiquette](etiquette.md)
 
 *This rulebook is a work-in-progress and may change over time in response to feedback.*
