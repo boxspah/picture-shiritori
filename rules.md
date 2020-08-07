@@ -10,13 +10,13 @@ For example,
 
 > basketball --> levitate --> element
 
-The word must not have been already used in the match, regardless of which player used it. Only one form of any given word can be used per match. A form can be a conjugation, an alternate spelling, a plural form, a nounified form etc. This is not a conclusive list of what can be defined as a "form."
+The word must not have been already used in the match, regardless of which player used it. Only one form of any given word can be used per match. A form can be a conjugation, an alternate spelling, a plural form, a word with Latin suffix etc. (This is not a comprehensive list of what can be defined as a "form.") It does not matter which form occurs first; all subsequent uses of the word and its forms are illegal.
 
 For example,
 
-> ascend --> dog --> ~~ascension~~
+> ascend --> dog --> gala --> ~~ascension~~
 
-This is illegal because "ascension" is derived from the word "ascend."
+This is illegal because "ascension" is a derivative of "ascend," which was already used. If "ascend" and "ascension" were to swap order, "ascension" would be valid and the second use of the word (i.e. "ascend") would be illegal.
 
 ## Drawing
 
