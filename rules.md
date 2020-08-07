@@ -30,7 +30,7 @@ The drawing may only be started after the preceding player has ended their turn.
 
 All English words are allowed, with the following restrictions:
 
-- No words ending with 'x', 'y', or 'z';
+- No words ending with 'x', 'y', or 'z' ("banned letters");
 - No abbreviations or acronyms;
 - No proper nouns
 
@@ -43,3 +43,16 @@ It is recommended to use high school level vocabulary so that all players can un
 ## Timers *
 
 The Rulebook recommends allocating at least 3 minutes per turn, from the time that the preceding turn is ended. Failure to submit a word and a drawing within the time will result in losing the match.
+
+## Variants
+
+### Phonetic shiritori
+
+Rather than match letters, players match [phonemes](https://en.wikipedia.org/wiki/Phoneme) ("sounds") between words. Banned letter rules do not apply. A sequence of words could go as follows:
+
+> telegraph --> factory --> east
+
+IPA:
+> tɛləɡɹæf --> fæktəɹi --> iːst
+
+This variant can be considered more faithful to the Japanese game since kana represent phonemes and not letters (which don't quite exist in Japanese).
