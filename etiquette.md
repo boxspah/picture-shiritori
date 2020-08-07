@@ -12,7 +12,7 @@ Upon dispute, the match must be stopped immediately. The match must not proceed 
 
 ## Respectful behaviour
 
-Although drawing is a large part of picture shiritori, players should be mindful that drawing skill can vary wildly from person to person. Players are to refrain from mocking or insulting other players' drawings. Trash-talking, taunting, and other demeaning behaviours are strongly discouraged. Players should maintain an atmosphere of respectful competition during a match.
+Although drawing is a large part of picture shiritori, players should be mindful that drawing skill can vary wildly from person to person. Players are to refrain from mocking or insulting other players' drawings. Trash-talking, taunting, and other demeaning behaviours are strongly discouraged and offenders may be disciplined. Players should maintain an atmosphere of respectful competition during a match. All above statements regarding respectful behaviour extend to spectators as well, particularly when spectators' remarks are visible or audible to players.
 
 ## Time warnings
 
