@@ -48,7 +48,9 @@ The Rulebook recommends allocating at least 3 minutes per turn, from the time th
 
 ### Phonetic shiritori
 
-Rather than match letters, players match [phonemes](https://en.wikipedia.org/wiki/Phoneme) ("sounds") between words. Banned letter rules do not apply. A sequence of words could go as follows:
+Rather than match letters, players match [phonemes](https://en.wikipedia.org/wiki/Phoneme) ("sounds") between words. Banned letter rules do not apply. [Voicing](https://en.wikipedia.org/wiki/Voice_%28phonetics%29), [stress](https://en.wikipedia.org/wiki/Stress_(linguistics)), and phonetic differences between [allophones](https://en.wikipedia.org/wiki/Allophone#English) of the same phoneme can be ignored.
+
+A sequence of words could go as follows:
 
 > telegraph --> factory --> east
 
