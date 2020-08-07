@@ -22,7 +22,7 @@ This is illegal because "ascension" is derived from the word "ascend."
 
 The drawing should resemble the word selected. Simply writing out the word is not a valid drawing.
 
-The drawing must be done at least partially by hand — fully computer-rendered graphics are not allowed, but drawing aids (e.g. shape tools) are okay.
+The drawing must be done at least partially by hand — fully computer-rendered graphics are not allowed, but drawing aids (e.g. shape tools) are okay. Hardware aids, such as a drawing tablet, are allowed*.
 
 ## Permitted words
 
