@@ -30,8 +30,8 @@ The drawing may only be started after the preceding player has ended their turn.
 
 All English words are allowed, with the following restrictions:
 
-- No words ending with 'x', 'y', or 'z' ("banned letters");
-- No abbreviations or acronyms;
+- No words ending with 'x', 'y', or 'z' ("banned letters")
+- No abbreviations or acronyms
 - No proper nouns
 
 It is recommended to use high school level vocabulary so that all players can understand the words played.

@@ -6,7 +6,7 @@ If a rule is violated, the match must be stopped immediately. The offending play
 
 ## Disputing
 
-In the event that a player deems a word or a drawing unsatisfactory, they may dispute the offending word or drawing. This dispute must occur within one(1) turn or two(2) minutes of the offense, whichever is longer.
+In the event that a player deems a word or a drawing unsatisfactory, they may dispute the offending word or drawing. This dispute must occur within one (1) turn or two (2) minutes of the offense, whichever is longer.
 
 Upon dispute, the match must be stopped immediately. The match must not proceed until the dispute is resolved.
 
