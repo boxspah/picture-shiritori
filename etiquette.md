@@ -2,13 +2,13 @@
 
 ## Violating a rule
 
-If a rule is violated, the game must be stopped immediately. The offending player may be forced to forfeit the game, if the offense is deemed severe. The game may continue after the offending player is removed from the match or is given a warning.
+If a rule is violated, the match must be stopped immediately. The offending player may be forced to forfeit the match, if the offense is deemed severe. The match may continue after the offending player is removed from the match or is given a warning.
 
 ## Disputing
 
 In the event that a player deems a word or a drawing unsatisfactory, they may dispute the offending word or drawing. This dispute must occur within one(1) turn or two(2) minutes of the offense, whichever is longer.
 
-Upon dispute, the game must be stopped immediately. The game must not proceed until the dispute is resolved.
+Upon dispute, the match must be stopped immediately. The match must not proceed until the dispute is resolved.
 
 ## Respectful behaviour
 
