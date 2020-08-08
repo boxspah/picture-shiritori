@@ -4,13 +4,13 @@
 
 ## Basic Play
 
-Players take turns submitting a word and a drawing representing the word. The selected word must begin with the same letter as the last letter of the word selected by the preceding player, as is true in Japanese shiritori.
+Players take turns submitting a word and a drawing representing the word. The selected word must begin with the same letter as the last letter of the word selected by the preceding player, like in Japanese shiritori.
 
 For example,
 
 > basketball --> levitate --> element
 
-The word must not have been already used in the match, regardless of which player used it. Only one form of any given word can be used per match. A form can be a conjugation, an alternate spelling, a plural form, a word with Latin suffix etc. (This is not a comprehensive list of what can be defined as a "form.") It does not matter which form occurs first; all subsequent uses of the word and its forms are illegal.
+The word must not have been already used in the match, regardless of which player used it. Only one form of any given word can be used per match. A form can be a conjugation, an alternate spelling, a plural form, or a word with Latin suffix. (This is not a comprehensive list of what can be defined as a "form.") It does not matter which form occurs first; all subsequent uses of the word and its forms are illegal.
 
 For example,
 
@@ -22,9 +22,9 @@ This is illegal because "ascension" is a derivative of "ascend," which was alrea
 
 The drawing must resemble the word selected. Simply writing out the word is not a valid drawing. If the drawing is intended as a joke or is not literally representative of the word, other players must agree that the drawing is acceptable. For example, drawing a pile of poop for "physics" is only valid if other players agree that physics is poop.
 
-The drawing must be done at least partially by hand — fully computer-rendered graphics are not allowed, but drawing aids (e.g. shape tools) are okay. Hardware aids, such as a drawing tablet, are allowed*.
+Players must complete their drawings at least partially by hand. Fully computer-rendered graphics are not allowed, but drawing aids (e.g. shape tools) are okay. Hardware aids, such as a drawing tablet, are allowed*.
 
-The drawing may only be started after the preceding player has ended their turn. Preparing drawings or assets in advance is not allowed. Selecting a colour palette ahead of time is allowed.
+Players can only start their drawings after the preceding player has ended their turn. Preparing drawings or assets in advance is not allowed. Selecting a colour palette ahead of time is allowed.
 
 ## Permitted words
 
@@ -34,7 +34,7 @@ All English words are allowed, with the following restrictions:
 - No abbreviations or acronyms
 - No proper nouns
 
-It is recommended to use high school level vocabulary so that all players can understand the words played.
+The Rulebook recommends using high school level vocabulary so that all players can understand the words played.
 
 ### Verification *
 
@@ -42,7 +42,7 @@ It is recommended to use high school level vocabulary so that all players can un
 
 ## Timers *
 
-The Rulebook recommends allocating at least 3 minutes per turn, from the time that the preceding turn is ended. Failure to submit a word and a drawing within the time will result in losing the match.
+The Rulebook recommends allocating at least 3 minutes per turn, starting from the time that the preceding player ends their turn. Failure to submit a word and a drawing within the time will result in forfeiting the match.
 
 ## Variants
 
@@ -59,6 +59,6 @@ A sequence of words could go as follows:
 
 Players should not submit IPA transcriptions: words submitted must be written in the normal Latin alphabet.
 
-There may be disputes about acceptable pronounciations: see [Verification](#verification-) for more details. Players should decide before the start of a match whether to accept all dialectal variations or to restrict pronunciations to one or more dialects.
+There may be disputes about acceptable pronunciations: see [Verification](#verification-) for more details. Players should decide before the start of a match whether to accept all dialectal variations or to restrict pronunciations to one or more dialects.
 
-This variant can be considered more faithful to the Japanese game since kana represent phonemes and phoneme groups directly.
+Phonetic shiritori can be considered more faithful to the Japanese game since Japanese kana represent phonemes and phoneme groups directly.
