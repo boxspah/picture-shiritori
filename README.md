@@ -1,10 +1,10 @@
 # The Unofficial Rulebook for English Picture Shiritori
 
-[Shiritori](https://en.wikipedia.org/wiki/Shiritori) (しりとり) is a Japanese word game in which players take turns saying a word which begins with the final kana of the previous word. For example, saku**ra** (さく**ら**) can be followed by **ra**jio (**ラ**ジオ). The game typically ends when a word is repeated (which is illegal), or a word ending with n (ん) is used (also illegal).
+[Shiritori](https://en.wikipedia.org/wiki/Shiritori) (しりとり) is a Japanese word game in which players take turns saying a word which begins with the final kana of the previous word. For example, saku**ra** (さく**ら**) can be followed by **ra**jio (**ラ**ジオ). The game ends when a word is repeated, a word ending with n (ん) is used, or a disallowed word is used.
 
-*Picture* shiritori replaces the verbal responses with written responses, accompanied by a hand-drawn representation of the word. Rules regarding word repetition and endings still apply.
+In *picture* shiritori, players draw and write out the word, instead of saying it out loud. Rules about word repetition and endings still apply.
 
-This rulebook is based on the rules of the original Japanese game, but has been modified to better suit the English language. We hope this improves the popularity of English shiritori to the level of its Japanese counterpart.
+This rulebook is based on the rules of the original Japanese game, with changes introduced to adapt the game to the English language. We hope this will make English shiritori as popular as its Japanese counterpart.
 
 ## Table of Contents
 
